@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-crt": "^1.8.3"
+    "aws-crt": "^1.10.2"
   }
 }
